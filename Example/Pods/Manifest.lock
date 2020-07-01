@@ -1,0 +1,16 @@
+PODS:
+  - AnyJsonCodable (0.1.0)
+
+DEPENDENCIES:
+  - AnyJsonCodable (from `../`)
+
+EXTERNAL SOURCES:
+  AnyJsonCodable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AnyJsonCodable: 993affc0074f0046941c3bb3d792b82572406024
+
+PODFILE CHECKSUM: 7b9cbe3dac26bace4f344023310f3666f9113d23
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,6 @@
+framework module AnyJsonCodable {
+  umbrella header "AnyJsonCodable-umbrella.h"
+
+  export *
+  module * { export * }
+}
